@@ -1,0 +1,7 @@
+MAILTO=""
+LANG=it_IT.UTF-8
+
+*/10 6-13 * * 1-5 cd /Users/Yu/Desktop/Documents/Investment/StockAnalysis && /anaconda/bin/python yfcrawler.py AMZN
+*/10 6-13 * * 1-5 cd /Users/Yu/Desktop/Documents/Investment/StockAnalysis && /anaconda/bin/python yfcrawler.py NVDA
+*/10 6-13 * * 1-5 cd /Users/Yu/Desktop/Documents/Investment/StockAnalysis && /anaconda/bin/python yfcrawler.py GOOGL
+*/10 6-13 * * 1-5 cd /Users/Yu/Desktop/Documents/Investment/StockAnalysis && /anaconda/bin/python yfcrawler.py SPY
